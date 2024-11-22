@@ -1,6 +1,8 @@
+package eu.urzicroft.polibanking;
+
 import javax.swing.*;
 
-public class Main {
+public class App {
     public static void main(String[] args) {
         JFrame frame = new JFrame();
         frame.setSize(1000, 1000);
