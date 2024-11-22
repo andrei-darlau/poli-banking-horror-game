@@ -10,6 +10,8 @@ public class App {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setTitle("Ai card la BCR?");
 
+        frame.add(new JButton("Click or die"));
+
         frame.setLocationRelativeTo(null);
         frame.setVisible(true);
     }
